@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mike 🐾</h1>
-
 <h3 align="center">🐶 Pet lover | 💻 Developer | 🇹🇼 From Taiwan</h3>
 <h3 align="center">🧑‍💻 About Me</h3>
-<p align="center">Someone who's moving forward toward their dreams.</p>
+<h5 align="center">✨ Someone who's moving forward toward their dreams. ✨</h5>
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeYC-Wang&layout=compact&theme=gruvbox)
