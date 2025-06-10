@@ -9,7 +9,7 @@
 - 🐾 [PerPetsStore](https://perpetsstore.com/) - Taiwan pet products e-commerce site
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeYC-Wang&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeYC-Wang&show_icons=true&theme=radical)
 
 ## 🔗 Links
 - 🌐 [My Website](https://perpetsstore.com)
