@@ -13,7 +13,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeYC-Wang&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MikeYC-Wang&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MikeYC-Wang&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ## 🔗 Links
 - 🌐 [My Website](https://perpetsstore.com)
