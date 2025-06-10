@@ -1,12 +1,8 @@
-# 👋 Hello! I'm Mike
+<h1 align="center">Hi there 👋, I'm Mike 🐾</h1>
 
-## 🧑‍💻 About Me
-- 🌱 Currently Skills: Python,HTML, CSS, JavaScript, Vue, Web Development
-- 💼 Working on: E-commerce pet site @PerPetsStore
-- 💬 Ask me about: WordPress, WooCommerce, automation
-
-## 🚀 Project
-- 🐾 [PerPetsStore](https://perpetsstore.com/) - Taiwan pet products e-commerce site
+<h3 align="center">🐶 Pet lover | 💻 Developer | 🇹🇼 From Taiwan</h3>
+<h3 align="center">🧑‍💻 About Me</h3>
+<p align="center">Someone who's moving forward toward their dreams.</p>
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeYC-Wang&layout=compact&theme=gruvbox)
@@ -18,3 +14,6 @@
 ## 🔗 Links
 - 🌐 [My Website](https://perpetsstore.com)
 - 📫 G-Mail: asd384639@gmail.com
+
+## 🪄 My Skills
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,vue,vite,nodejs,py)](https://skillicons.dev)
