@@ -17,5 +17,4 @@
 
 ## 🔗 Links
 - 🌐 [My Website](https://perpetsstore.com)
-- 📝 [Blog/Notes](https://你的部落格網址)
 - 📫 G-Mail: asd384639@gmail.com
