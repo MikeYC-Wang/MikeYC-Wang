@@ -12,7 +12,10 @@
 
 ## 🔗 Links
 - 🌐 [My Website](https://perpetsstore.com)
+- ✏️ [Codepen](https://codepen.io/Mike-YC)
 - 📫 G-Mail: asd384639@gmail.com
+
 
 ## 🪄 My Skills
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,vue,vite,nodejs,py)](https://skillicons.dev)
+
