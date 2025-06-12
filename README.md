@@ -13,7 +13,7 @@
 ## 🔗 Links
 - 🌐 [My Website](https://perpetsstore.com)
 - ✏️ [Codepen](https://codepen.io/Mike-YC)
-- 📫 G-Mail: asd384639@gmail.com
+- 📫 [G-Mail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfqchVCtlXszrxJmZqQkbDsHJZXJlsjtqNkFPNPLHfGDmsgcQgppkCjPQllWWJzMBpwKwL)
 
 
 ## 🪄 My Skills
