@@ -2,9 +2,10 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *" # 每天執行一次
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
+# 確保給予寫入權限
 permissions:
   contents: write
 
@@ -14,6 +15,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
+      
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -24,5 +26,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated"
+          # 修正重點：加上 || exit 0 
+          # 意思就是：如果沒有東西可以 commit (例如圖沒變)，就直接結束，不要報錯
+          git commit -m "generated" || exit 0
           git push
