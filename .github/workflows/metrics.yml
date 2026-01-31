@@ -1,0 +1,33 @@
+name: Metrics (Isocalendar)
+on:
+  # 每天午夜自動更新
+  schedule: [{cron: "0 0 * * *"}]
+  # 允許手動觸發
+  workflow_dispatch:
+  # 當你推送到主分支時也會更新
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Isocalendar
+        uses: lowlighter/metrics@latest
+        with:
+          # 使用 GitHub 內建 Token 即可
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # 指定使用者 (就是你)
+          user: MikeYC-Wang
+          
+          # 設定輸出檔名
+          filename: metrics.plugin.isocalendar.svg
+          
+          # 關閉基本資訊，只顯示日曆 (避免跟其他圖表重複)
+          base: ""
+          
+          # 啟用立體日曆外掛
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # 顯示整年
