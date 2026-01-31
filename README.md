@@ -17,5 +17,5 @@
 
 
 ## 🪄 My Skills
-[![My Skills](https://skillicons.dev/icons?i=vscode,codepen,html,css,js,vue,vite,bootstrap,nodejs,cs,py,dotnet,git,npm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,codepen,html,css,js,vue,vite,bootstrap,nodejs,cs,py,dotnet,git,npm,postman)](https://skillicons.dev)
 
