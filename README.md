@@ -6,19 +6,19 @@
 <h3 align="center">🧑‍💻 About Me</h3>
 <h5 align="center">✨ Someone who's moving forward toward their dreams. ✨</h5>
 
-<p align="center">
+<p align="left">
   <img src="https://profile-counter.glitch.me/MikeYC-Wang/count.svg" alt="Visitor Count">
 </p>
 
 ## 🏆 Achievements
-<div align="center">
+<div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=MikeYC-Wang&theme=radical&no-frame=true&column=7" alt="MikeYC-Wang's Trophies" />
   </a>
 </div>
 
 ## 📊 GitHub Stats
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeYC-Wang&layout=compact&theme=gruvbox" alt="Top Langs" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=MikeYC-Wang&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -34,7 +34,7 @@
 - 📫 [G-Mail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfqchVCtlXszrxJmZqQkbDsHJZXJlsjtqNkFPNPLHfGDmsgcQgppkCjPQllWWJzMBpwKwL)
 
 ## 🪄 My Skills
-<div align="center">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,codepen,wordpress,html,css,js,vue,vite,bootstrap,nodejs,cs,py,dotnet,arduino,git,npm,postman" alt="My Skills" />
   </a>
