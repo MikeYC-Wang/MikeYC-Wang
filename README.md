@@ -7,6 +7,8 @@
 <h5 align="center">✨ Someone who's moving forward toward their dreams. ✨</h5>
 
 ## 📊 GitHub Stats
+![MikeYC-Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeYC-Wang&show_icons=true&theme=radical)
+
 <div align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=MikeYC-Wang&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
