@@ -25,7 +25,7 @@
 ## 🪄 My Skills
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,codepen,wordpress,html,css,js,vue,vite,bootstrap,nodejs,cs,py,dotnet,arduino,git,npm,postman)](https://skillicons.dev)
 
-<h2 align="center">🐍 My Contribution Snake</h2>
+## 🐍 My Contribution Snake</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeYC-Wang/MikeYC-Wang/output/github-contribution-grid-snake-dark.svg">
