@@ -41,11 +41,6 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph">
 </div>
 
-## 🧩 My Contribution Calendar
-<div align="center">
-  <img src="https://github.com/MikeYC-Wang/MikeYC-Wang/blob/master/metrics.plugin.isocalendar.svg" alt="Metrics Isocalendar">
-</div>
-
 <div align="right">
   <table>
     <tr>
