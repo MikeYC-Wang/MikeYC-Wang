@@ -10,19 +10,8 @@
   <img src="https://profile-counter.glitch.me/MikeYC-Wang/count.svg" alt="Visitor Count">
 </p>
 
-## 🏆 Achievements
-<div align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MikeYC-Wang&theme=radical&no-frame=true&column=7" alt="MikeYC-Wang's Trophies" />
-  </a>
-</div>
-
 ## 📊 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeYC-Wang&layout=compact&theme=gruvbox" alt="Top Langs" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MikeYC-Wang&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=MikeYC-Wang&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   </a>
