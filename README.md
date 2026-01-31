@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mike%20Wang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=System%20Admin%20%26%20Developer&descAlignY=51&descAlign=62)
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there+👋,+I'm+Mike" alt="Typing SVG" />
 </h1>
@@ -41,4 +39,13 @@
 ## 🏗️ My Coding City</h2>
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph">
+</div>
+
+<div align="right">
+███╗   ███╗██╗██╗  ██╗███████╗ 
+████╗ ████║██║██║ ██╔╝██╔════╝ 
+██╔████╔██║██║█████╔╝ █████╗    
+██║╚██╔╝██║██║██╔═██╗ ██╔══╝    
+██║ ╚═╝ ██║██║██║  ██╗███████╗ 
+╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚══════╝ 
 </div>
