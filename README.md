@@ -6,7 +6,7 @@
 <h5 align="center">✨ Someone who's moving forward toward their dreams. ✨</h5>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=70C1B3&width=435&lines=☁️+Today's weather forecast+ (Keelung City)" alt="Weather Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=70C1B3&width=435&lines=☁️+Today's+weather+forecast+ (Keelung+City)" alt="Weather Title" />
 </p>
 
 ## 📊 GitHub Stats
@@ -24,4 +24,3 @@
 
 ## 🪄 My Skills
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,codepen,wordpress,html,css,js,vue,vite,bootstrap,nodejs,cs,py,dotnet,arduino,git,npm,postman)](https://skillicons.dev)
-
