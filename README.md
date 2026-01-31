@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E018&center=true&vCenter=true&width=435&lines=Hi+there+👋,+I'm+Mike;Pet+lover+🐶;Full+Stack+Developer+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there+👋,+I'm+Mike" alt="Typing SVG" />
 </h1>
 <h3 align="center">🐶 Pet lover | 💻 Developer | 🇹🇼 From Taiwan</h3>
 <h3 align="center">🧑‍💻 About Me</h3>
