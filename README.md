@@ -6,10 +6,6 @@
 <h3 align="center">🧑‍💻 About Me</h3>
 <h5 align="center">✨ Someone who's moving forward toward their dreams. ✨</h5>
 
-<p align="left">
-  <img src="https://profile-counter.glitch.me/MikeYC-Wang/count.svg" alt="Visitor Count">
-</p>
-
 ## 📊 GitHub Stats
 <div align="left">
   <a href="https://git.io/streak-stats">
