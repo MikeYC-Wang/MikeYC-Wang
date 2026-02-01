@@ -49,9 +49,6 @@
   <h2>🏗️ My Coding City</h2>
   
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-  
-  <br />
-  
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 </div>
 
