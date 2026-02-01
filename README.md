@@ -52,21 +52,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 </div>
 
-<div align="right">
-  <table>
-    <tr>
-      <td>
-        <pre>
-███╗   ███╗██╗██╗  ██╗███████╗
-████╗ ████║██║██║ ██╔╝██╔════╝
-██╔████╔██║██║█████╔╝ █████╗  
-██║╚██╔╝██║██║██╔═██╗ ██╔══╝  
-██║ ╚═╝ ██║██║██║  ██╗███████╗
-╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚══════╝
-        </pre>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height="130" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="130" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="130" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" height="130" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="130" />
+  <img src="https://raw.githubusercontent.com/MikeYC-Wang/MikeYC-Wang/main/Mike-removebg-preview.png" height="150" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=100&section=footer" width="100%">
