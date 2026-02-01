@@ -41,6 +41,8 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph">
 </div>
 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+
 <div align="right">
   <table>
     <tr>
