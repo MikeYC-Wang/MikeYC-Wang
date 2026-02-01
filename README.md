@@ -9,7 +9,6 @@
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
-
 ## 📊 GitHub Stats
 ![MikeYC-Wang's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MikeYC-Wang&show_icons=true&theme=radical)
 
