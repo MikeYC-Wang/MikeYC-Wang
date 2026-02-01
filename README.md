@@ -48,6 +48,9 @@
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph">
 </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+</div>
 
 <div align="right">
   <table>
@@ -64,10 +67,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=100&section=footer" width="100%">
