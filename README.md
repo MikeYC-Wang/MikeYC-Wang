@@ -57,5 +57,7 @@
     </tr>
   </table>
 </div>
+
 ![Visitor Count](https://profile-counter.glitch.me/MikeYC-Wang/count.svg)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D2B48C&height=100&section=footer" width="100%">
