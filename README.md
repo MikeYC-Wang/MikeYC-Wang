@@ -6,7 +6,9 @@
 <h3 align="center">🧑‍💻 About Me</h3>
 <h5 align="center">✨ Someone who's moving forward toward their dreams. ✨</h5>
 
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</div>
 
 ## 📊 GitHub Stats
 ![MikeYC-Wang's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MikeYC-Wang&show_icons=true&theme=radical)
@@ -38,7 +40,7 @@
   </picture>
 </div>
 
-## 🏗️ My Coding City</h2>
+## 🏗️ My Coding City
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph">
 </div>
