@@ -33,7 +33,7 @@
 ## 🪄 My Skills
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,codepen,wordpress,html,css,js,vue,vite,bootstrap,nodejs,cs,py,dotnet,arduino,git,npm,postman" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,html,css,js,ts,vue,vite,bootstrap,codepen,wordpress,cs,dotnet,py,nodejs,redis,rabbitmq,docker,kubernetes,git,npm,arduino" alt="My Skills" />
   </a>
 </div>
 
@@ -58,6 +58,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="130" />
   <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" height="130" />
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="130" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="130" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="130" />
   <img src="https://raw.githubusercontent.com/MikeYC-Wang/MikeYC-Wang/main/Mike-removebg-preview.png" height="150" />
 </div>
 
