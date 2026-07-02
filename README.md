@@ -39,11 +39,7 @@
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeYC-Wang/MikeYC-Wang/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MikeYC-Wang/MikeYC-Wang/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MikeYC-Wang/MikeYC-Wang/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="wolverine contribution snake animation" src="https://raw.githubusercontent.com/MikeYC-Wang/WolverineCommit.Snake/output/dist/wolverine-snake.svg" />
 </div>
 
 ## 🏗️ My Coding City
