@@ -11,13 +11,13 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MikeYC-Wang/3DPixelCalendar/output/dist/calendar.svg" alt="我的像素日曆" width="250" />
-  <img src="https://cdn.jsdelivr.net/gh/MikeYC-Wang/CompileBless@main/compile_bless.svg" alt="CompileBless" width="250">
-  <img src="https://raw.githubusercontent.com/MikeYC-Wang/3DPixelZodiac/output/dist/zodiac.svg" alt="今年生肖" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/MikeYC-Wang/3DPixelCalendar/output/dist/calendar.svg" alt="我的像素日曆" width="250" />
+  <img src="https://cdn.jsdelivr.net/gh/MikeYC-Wang/CompileBless@main/compile_bless.svg" alt="CompileBless" width="250">
+  <img src="https://raw.githubusercontent.com/MikeYC-Wang/3DPixelZodiac/output/dist/zodiac.svg" alt="今年生肖" />
 </div>
 
 ## 📊 GitHub Stats
