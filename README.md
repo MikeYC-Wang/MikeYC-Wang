@@ -21,6 +21,12 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/MikeYC-Wang/CompileBless@main/compile_bless.svg?v=2" alt="CompileBless" width="420">
+
+  <br>
+
+  <a href="https://github.com/MikeYC-Wang/CompileBless/issues/new?title=CompileBless%3A%20%E5%8A%9F%E5%BE%B7%20%2B1&body=%E6%84%9F%E8%AC%9D%E9%96%8B%E6%BA%90%EF%BC%8C%E9%A1%98%E6%88%91%20build%20%E5%B8%B8%E7%B6%A0%E3%80%82">
+    <img src="https://img.shields.io/badge/☛ 點香積功德 ☚-C1272D?style=for-the-badge&logoColor=white" alt="點我點香積功德">
+  </a>
 </div>
 
 ## 📊 GitHub Stats
