@@ -16,8 +16,11 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MikeYC-Wang/3DPixelCalendar/output/dist/calendar.svg" alt="我的像素日曆" width="250" />
-  <img src="https://cdn.jsdelivr.net/gh/MikeYC-Wang/CompileBless@main/compile_bless.svg?v=2" alt="CompileBless" width="250">
   <img src="https://raw.githubusercontent.com/MikeYC-Wang/3DPixelZodiac/output/dist/zodiac.svg" alt="今年生肖" />
+</div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/MikeYC-Wang/CompileBless@main/compile_bless.svg?v=2" alt="CompileBless" width="420">
 </div>
 
 ## 📊 GitHub Stats
