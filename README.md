@@ -19,11 +19,11 @@
 </div>
 
 ## 📊 GitHub Stats
-![MikeYC-Wang's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MikeYC-Wang&show_icons=true&theme=radical)
+![MikeYC-Wang's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MikeYC-Wang&show_icons=true&theme=radical&v=1)
 
 <div align="left">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MikeYC-Wang&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=MikeYC-Wang&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" />
   </a>
 </div>
 
