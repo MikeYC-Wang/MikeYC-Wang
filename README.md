@@ -16,8 +16,9 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MikeYC-Wang/3DPixelCalendar/output/dist/calendar.svg" alt="我的像素日曆" width="250" />
-  <img src="https://raw.githubusercontent.com/MikeYC-Wang/3DPixelZodiac/output/dist/zodiac.svg" alt="今年生肖" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/MikeYC-Wang/CompileBless@main/compile_bless.svg?v=2" alt="CompileBless" width="420">
@@ -30,13 +31,20 @@
 </div>
 
 ## 📊 GitHub Stats
+
+<img align="right" src="https://raw.githubusercontent.com/MikeYC-Wang/3DPixelZodiac/output/dist/zodiac-dragon.svg" alt="dragon" width="250" />
+
 ![MikeYC-Wang's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MikeYC-Wang&show_icons=true&theme=radical&v=1)
 
-<div align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MikeYC-Wang&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" />
-  </a>
-</div>
+<br clear="right" />
+
+<img align="right" src="https://raw.githubusercontent.com/MikeYC-Wang/3DPixelZodiac/output/dist/zodiac-ox.svg" alt="ox" width="250" />
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=MikeYC-Wang&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" />
+</a>
+
+<br clear="right" />
 
 ## 🔗 Links
 - 🌐 [My Website](https://mikeyc-wang.github.io/MyPortfolio/)
