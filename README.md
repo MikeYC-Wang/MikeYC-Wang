@@ -32,13 +32,13 @@
 
 ## 📊 GitHub Stats
 
-<img align="right" src="https://raw.githubusercontent.com/MikeYC-Wang/3DPixelZodiac/output/dist/zodiac-dragon.svg" alt="dragon" width="250" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/MikeYC-Wang/3DPixelZodiac@output/dist/zodiac-dragon.svg" alt="dragon" width="250" />
 
 ![MikeYC-Wang's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MikeYC-Wang&show_icons=true&theme=radical&v=1)
 
 <br clear="right" />
 
-<img align="right" src="https://raw.githubusercontent.com/MikeYC-Wang/3DPixelZodiac/output/dist/zodiac-ox.svg" alt="ox" width="250" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/MikeYC-Wang/3DPixelZodiac@output/dist/zodiac-ox.svg" alt="ox" width="250" />
 
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=MikeYC-Wang&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" />
