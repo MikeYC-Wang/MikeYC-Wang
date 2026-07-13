@@ -67,7 +67,7 @@
 
 ## 🏗️ My Coding City
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MikeYC-Wang/HardwareHUD/main/profile-hud.svg" alt="Hardware HUD" width="800" />
+  <img src="https://raw.githubusercontent.com/MikeYC-Wang/HardwareHUD/main/profile-hud.svg" alt="Hardware HUD" width="100%" />
 </div>
 
 <div align="center">
