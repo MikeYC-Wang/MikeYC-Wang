@@ -62,7 +62,7 @@
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img alt="wolverine contribution snake animation" src="https://raw.githubusercontent.com/MikeYC-Wang/WolverineCommit.Snake/output/dist/wolverine-snake.svg" />
+  <img alt="wolverine contribution snake animation" src="https://raw.githubusercontent.com/MikeYC-Wang/WolverineCommit.Snake/output/dist/wolverine-snake.svg" width="100%" />
 </div>
 
 ## 🏗️ My Coding City
